@@ -17,9 +17,10 @@ Create a file called README.md and populate with Markdown. Demonstrate headers, 
 ### A third level of headers, even smaller header
 
 
+
 So I am making a bulleted list:
 * Data:
-  * ! [Survey data] (data/Survey_Data.xlsx)
+  * ! [Survey data](data/Survey_Data.xlsx)
 * Images:
   * ! [Rhytidoponera metallic](images/casent-0172345_Rhytidoponera_metallica.jpg)
   * ! [Camponotus darwinii](images/casent-0191696_Camponotus_darwinii.jpg)
@@ -31,11 +32,10 @@ This can be further viewed on my Github repository for [tfcb-homework02](https:/
 
 
 A table demonstration:
-
 Date collected  | Species  | Weight
 ------------- | ------------- | -------------
 2020/04/20  | Cataglyphis fortis  | 2
 2020/05/20  | Camponotus darwinii  | 4
 
 
-I looked at the website that Trevor Bedford recommended for markdown help <https://r4ds.had.co.nz/r-markdown.html>.
+I looked at the website that Trevor Bedford recommended for markdown help. Specifically, for how to link images and files in the markdown file: <https://r4ds.had.co.nz/r-markdown.html>.
