@@ -12,9 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 Create a file called README.md and populate with Markdown. Demonstrate headers, lists, links, embedded images (by linking to images contained in the directory) and tables in this readme.
 
 
-# This is a header
-## Another header
-### A third level of headers
+# This is a big header
+## Another header that is smaller
+### A third level of headers, even smaller header
 
 
 So I am making a bulleted list:
