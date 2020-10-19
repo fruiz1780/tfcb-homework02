@@ -19,7 +19,7 @@ Create a file called README.md and populate with Markdown. Demonstrate headers, 
 
 So I am making a bulleted list:
 * Data:
-  * ![Survey data] (tfcb-homework02/data/Survey_Data.xlsx)
+  * ! [Survey data] (tfcb-homework02/data/Survey_Data.xlsx)
 * Images:
   * ![Rhytidoponera metallic] (tfcb-homework02/images/casent-0172345_Rhytidoponera_metallica.jpg)
   * ![Camponotus darwinii] (tfcb-homework02/images/casent-0191696_Camponotus_darwinii.jpg)
