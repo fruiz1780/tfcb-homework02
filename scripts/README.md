@@ -18,13 +18,13 @@ Create a file called README.md and populate with Markdown. Demonstrate headers, 
 
 
 So I am making a bulleted list:
-*Data:
-  *![Survey data] (tfcb-homework02/data/Survey_Data.xlsx)
-*Images:
-  *![Rhytidoponera metallic] (tfcb-homework02/images/casent-0172345_Rhytidoponera_metallica.jpg)
-  *![Camponotus darwinii] (tfcb-homework02/images/casent-0191696_Camponotus_darwinii.jpg)
-  *![Acanthomyrmex ferox} (tfcb-homework02/images/casent-0901788_p-1-high_Acanthomyrmex_ferox.jpg)
-  *![Cataglyphis fortis} (tfcb-homework02/images/casent-0906296_p-1-high_Cataglyphis_fortis.jpg)
+* Data:
+  * ![Survey data] (tfcb-homework02/data/Survey_Data.xlsx)
+* Images:
+  * ![Rhytidoponera metallic] (tfcb-homework02/images/casent-0172345_Rhytidoponera_metallica.jpg)
+  * ![Camponotus darwinii] (tfcb-homework02/images/casent-0191696_Camponotus_darwinii.jpg)
+  * ![Acanthomyrmex ferox} (tfcb-homework02/images/casent-0901788_p-1-high_Acanthomyrmex_ferox.jpg)
+  * ![Cataglyphis fortis} (tfcb-homework02/images/casent-0906296_p-1-high_Cataglyphis_fortis.jpg)
   
 This can be further viewed on my Github repository for [tfcb-homework02](https://github.com/fruiz1780/tfcb-homework02)
 
